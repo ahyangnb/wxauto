@@ -4,6 +4,16 @@ WeChat 3.9.12 安装包 https://www.123912.com/s/trNHjv-Hi9GA
 PS D:\py_pro\wxauto> python --version
 Python 3.13.7
 
+
+# 1.安装依赖
+```
+pip install . 
+```
+# 2. 运行脚本
+```
+python .\test_send.py
+```
+
 # wxauto (2021-2025)
 
 ## 本项目于2025-10-28停止维护
