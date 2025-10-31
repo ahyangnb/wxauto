@@ -1,3 +1,6 @@
+相关资源
+WeChat 3.9.12 安装包 https://www.123912.com/s/trNHjv-Hi9GA
+
 # wxauto (2021-2025)
 
 ## 本项目于2025-10-28停止维护
